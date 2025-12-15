@@ -1,0 +1,119 @@
+.navbar {
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Arial, sans-serif;
+}
+
+/* Logo */
+.logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.logo-icon {
+  font-size: 22px;
+  color: #2563eb; /* blue */
+  margin-right: 5px;
+}
+.logo-text {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Search Bar */
+.search-bar {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  width: 50%;
+  max-width: 600px;
+}
+.search-select {
+  border: none;
+  padding: 8px;
+  font-size: 14px;
+  color: #555;
+  outline: none;
+  border-right: 1px solid #ddd;
+}
+.search-input {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+.search-btn {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 0 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.search-btn:hover {
+  background: #1e4fd0;
+}
+
+/* Right Section */
+.right-section {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+/* Help Section */
+.help {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: #555;
+}
+.help-icon {
+  color: #2563eb;
+  font-size: 16px;
+}
+.help-title {
+  font-weight: bold;
+  margin: 0;
+}
+.help-phone {
+  margin: 0;
+  font-size: 12px;
+  color: #777;
+}
+
+/* Icons */
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 18px;
+  color: #333;
+}
+.icon {
+  cursor: pointer;
+}
+.icon-badge {
+  position: relative;
+  cursor: pointer;
+}
+.badge {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: #2563eb;
+  color: white;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 50%;
+}

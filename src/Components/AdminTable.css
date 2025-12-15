@@ -1,0 +1,93 @@
+/* src/components/AdminTable.css */
+
+.admin-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 10px 20px;
+  color: black;
+  border-radius: 8px;
+}
+
+.admin-header h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.admin-header button {
+  background: #0984e3;
+  color: #fff;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.admin-header button:hover {
+  background: #74b9ff;
+}
+
+/* Table Styling */
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.admin-table th,
+.admin-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.admin-table th {
+  background: #f5f6fa;
+  font-weight: 600;
+  color: #2d3436;
+}
+
+.admin-table tr:hover {
+  background: #f1f2f6;
+}
+
+.admin-table img {
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+/* Action Buttons */
+.admin-table button {
+  margin-right: 6px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.admin-table button:first-of-type {
+  background: #00b894;
+  color: #fff;
+}
+
+.admin-table button:first-of-type:hover {
+  background: #55efc4;
+}
+
+.admin-table button:last-of-type {
+  background: #d63031;
+  color: #fff;
+}
+
+.admin-table button:last-of-type:hover {
+  background: #ff7675;
+}

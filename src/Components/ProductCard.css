@@ -1,0 +1,122 @@
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.product-card {
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+  font-family: "Arial", sans-serif;
+  border: 1px Solid rgb(229, 226, 226);
+ 
+}
+
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.product-image {
+  position: relative;
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+}
+
+.product-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover .product-image img {
+  transform: scale(1.05);
+}
+
+/* Rating Badge */
+.rating-badge {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background: #fff;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.rating-badge span {
+  color: #388e3c; /* green star */
+}
+
+/* Card Body */
+.product-details {
+  padding: 10px;
+}
+
+.product-details h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #333;
+ 
+}
+.product-link {
+  text-decoration: none;
+  color: inherit; /* keep normal text colors */
+  display: block; /* make link cover whole card */
+}
+
+.product-card h3 , p{
+  padding-left: 10px;
+}
+
+.product-card h4{
+padding: 10px 10px;
+}
+
+.star-icon {
+  color:#14958f;
+ 
+}
+.rate{
+ margin-left: 10px;
+ margin-bottom: 10px;
+}
+
+.product-Container {
+  position: relative;
+}
+
+.wishlist-btn {
+  position: absolute;
+  top: 30px; 
+  left: 10px;
+  background: rgb(239, 237, 237);
+  border: none;
+  padding: 7px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+  color: gray;
+  transition: 0.3s;
+}
+
+.wishlist-btn.active {
+  color: red;
+}
+
+.wishlist-btn:hover {
+  transform: scale(1.1);
+}

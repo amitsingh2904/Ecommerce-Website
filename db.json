@@ -1,0 +1,479 @@
+{
+  "products": [
+    {
+      "title": "UrbanWear Vintage Graphic Tee",
+      "description": "Make a statement with this Vintage Graphic Tee from UrbanWear. Featuring a unique, retro-inspired print, it's the perfect way to add a touch of personality to your casual look.",
+      "price": "37",
+      "brand": "UrbanWear",
+      "category": "tshirts",
+      "thumbnail": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=270&h=400&fit=crop&q=80",
+      "rating": "4",
+      "sizes_available": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "UrbanWear Vintage Graphic Tee",
+      "brand": "UrbanWear",
+      "category": "tshirts",
+      "price": 32,
+      "rating": "1.5",
+      "description": "Make a statement with this Vintage Graphic Tee from UrbanWear. Featuring a unique, retro-inspired print, it's the perfect way to add a touch of personality to your casual look.",
+      "sizes_available": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "3",
+      "title": "CasualHub Comfort V-Neck",
+      "brand": "CasualHub",
+      "category": "tshirts",
+      "price": 27,
+      "rating": "4.4",
+      "description": "Discover ultimate comfort with the CasualHub V-Neck. Its soft fabric blend and modern fit provide a flattering silhouette for everyday wear.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "4",
+      "title": "UrbanWear Essential Cotton Tee",
+      "brand": "UrbanWear",
+      "category": "tshirts",
+      "price": 12,
+      "rating": "5.0",
+      "description": "The UrbanWear Essential Cotton Tee is a must-have basic. Breathable, soft, and built to last, it's the perfect foundation for any outfit.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "5",
+      "title": "UrbanWear Streetstyle Print",
+      "brand": "UrbanWear",
+      "category": "tshirts",
+      "price": 45,
+      "rating": "1.7",
+      "description": "Capture the essence of city life with the Streetstyle Print tee. This UrbanWear shirt features a bold graphic that stands out from the crowd.",
+      "sizes_available": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "6",
+      "title": "FashionCo Designer Tee",
+      "brand": "FashionCo",
+      "category": "tshirts",
+      "price": 14,
+      "rating": "1.1",
+      "description": "Elevate your style with the FashionCo Designer Tee. A minimalist design combined with luxury fabric for a sophisticated, modern look.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "7",
+      "title": "StreetStyle Bold Graphic Shirt",
+      "brand": "StreetStyle",
+      "category": "tshirts",
+      "price": 14,
+      "rating": "2.9",
+      "description": "Be bold and expressive with this graphic shirt from StreetStyle. The eye-catching design is perfect for those who want to make an impact.",
+      "sizes_available": [
+        "M",
+        "L"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "8",
+      "title": "FashionCo Slim Fit Tee",
+      "brand": "FashionCo",
+      "category": "tshirts",
+      "price": 21,
+      "rating": "2.9",
+      "description": "Tailored for a sleek silhouette, the FashionCo Slim Fit Tee is crafted from a stretch-cotton blend for a perfect, comfortable fit.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1627225925683-1da7021732ea?w=260&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "9",
+      "title": "FashionCo Classic Logo Tee",
+      "brand": "FashionCo",
+      "category": "tshirts",
+      "price": 22,
+      "rating": "3.2",
+      "description": "Show off your brand loyalty with the FashionCo Classic Logo Tee. A simple yet iconic piece that pairs well with anything.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1502389614483-e475fc34407e??w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "10",
+      "title": "Trendz Modern Fit Shirt",
+      "brand": "Trendz",
+      "category": "tshirts",
+      "price": 43,
+      "rating": "2.7",
+      "description": "Stay on-trend with the Modern Fit Shirt by Trendz. Its contemporary cut and high-quality material make it a versatile addition to your collection.",
+      "sizes_available": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1624373607006-348f61ea2d76?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "11",
+      "title": "CasualHub Everyday Tee",
+      "brand": "CasualHub",
+      "category": "tshirts",
+      "price": 37,
+      "rating": "4.9",
+      "description": "The perfect tee for any day of the week. CasualHub's Everyday Tee is designed for maximum comfort and effortless style.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "12",
+      "title": "CasualHub Relaxed Fit",
+      "brand": "CasualHub",
+      "category": "tshirts",
+      "price": 30,
+      "rating": "2.3",
+      "description": "Embrace a laid-back vibe with the CasualHub Relaxed Fit tee. Its loose cut ensures freedom of movement and a comfortable feel.",
+      "sizes_available": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=250&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "13",
+      "title": "FashionCo Vintage Wash",
+      "brand": "FashionCo",
+      "category": "tshirts",
+      "price": 11,
+      "rating": "2.7",
+      "description": "Achieve a perfectly worn-in look with the FashionCo Vintage Wash tee. Each shirt has a unique, faded finish for authentic retro style.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1603065881771-8aa5eb1ed8bf?w=260&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "14",
+      "title": "Men Regular Fit Solid Curved Collar Formal Shirt",
+      "brand": "Youth First",
+      "category": "shirt",
+      "price": 29,
+      "rating": "4.1",
+      "description": "A classic solid formal shirt with a curved collar for a polished look. Designed for office wear and special occasions.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "15",
+      "title": "Men Regular Fit Solid Cut Away Collar Formal Shirt",
+      "brand": "VTEXX",
+      "category": "shirt",
+      "price": 299,
+      "rating": "4.0",
+      "description": "Crafted for a sharp impression, this cut-away collar shirt is ideal for both meetings and formal gatherings.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=270&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "16",
+      "title": "Men Slim Fit Casual Shirt",
+      "brand": "Highlander",
+      "category": "shirt",
+      "price": 549,
+      "rating": "4.2",
+      "description": "A versatile slim fit casual shirt that pairs well with jeans or trousers, perfect for outings and casual Fridays.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1740711152088-88a009e877bb?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "17",
+      "title": "Men Checked Slim Fit Shirt",
+      "brand": "Peter England",
+      "category": "shirt",
+      "price": 899,
+      "rating": "4.4",
+      "description": "Stylish checked slim fit shirt that combines comfort with a modern look. Perfect for casual and semi-formal occasions.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "18",
+      "title": "Men Printed Round Neck T-Shirt",
+      "brand": "HRX",
+      "category": "tshirts",
+      "price": 399,
+      "rating": "4.2",
+      "description": "A trendy printed round neck tee made with breathable cotton. Perfect for workouts and casual wear.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1604695573706-53170668f6a6?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "19",
+      "title": "Men Solid Polo Neck T-Shirt",
+      "brand": "U.S. Polo Assn.",
+      "category": "tshirts",
+      "price": 799,
+      "rating": "4.5",
+      "description": "Classic solid polo neck tee that adds sophistication to any outfit. A timeless addition to your wardrobe.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "20",
+      "title": "Men Slim Fit Jeans",
+      "brand": "Levi's",
+      "category": "jeans",
+      "price": 1499,
+      "rating": "4.6",
+      "description": "Durable slim fit jeans crafted from premium denim. Perfect balance of comfort and style.",
+      "sizes_available": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "21",
+      "title": "Men Skinny Fit Stretch Jeans",
+      "brand": "Roadster",
+      "category": "jeans",
+      "price": 1199,
+      "rating": "4.3",
+      "description": "Skinny fit stretch jeans designed for flexibility and comfort. A modern look for everyday wear.",
+      "sizes_available": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "22",
+      "title": "Men Solid Bomber Jacket",
+      "brand": "Jack & Jones",
+      "category": "jackets",
+      "price": 2499,
+      "rating": "4.5",
+      "description": "A solid bomber jacket with a sleek design. Perfect for layering and street-style fashion.",
+      "sizes_available": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "23",
+      "title": "Men Puffer Jacket",
+      "brand": "H&M",
+      "category": "jackets",
+      "price": 2799,
+      "rating": "4.6",
+      "description": "Stay warm and stylish with this puffer jacket, designed with lightweight insulation for cold weather.",
+      "sizes_available": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1605794432120-f4bb5dc9067d?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "24",
+      "title": "Men Regular Fit Track Pants",
+      "brand": "Adidas",
+      "category": "pants",
+      "price": 1299,
+      "rating": "4.4",
+      "description": "Comfortable and stylish track pants by Adidas, perfect for gym sessions and casual outings.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "25",
+      "title": "Men Solid Joggers",
+      "brand": "Puma",
+      "category": "pants",
+      "price": 999,
+      "rating": "4.3",
+      "description": "Relax in style with Puma’s solid joggers. Designed with soft fabric and a tapered fit for comfort.",
+      "sizes_available": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "26",
+      "title": "Men Formal Trousers",
+      "brand": "Allen Solly",
+      "category": "trousers",
+      "price": 1499,
+      "rating": "4.2",
+      "description": "Classic formal trousers tailored for office and events. A smart addition to any professional wardrobe.",
+      "sizes_available": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "27",
+      "title": "Men Chinos",
+      "brand": "Van Heusen",
+      "category": "trousers",
+      "price": 1399,
+      "rating": "4.4",
+      "description": "Versatile chinos crafted for comfort and durability. Ideal for both work and casual settings.",
+      "sizes_available": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "id": "28",
+      "title": "Men Sports Shoes",
+      "brand": "Nike",
+      "category": "shoes",
+      "price": 2999,
+      "rating": "4.7",
+      "description": "High-performance Nike sports shoes built for running, training, and all-day comfort.",
+      "sizes_available": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300&h=400&fit=crop&q=80"
+    },
+    {
+      "title": "t shirt",
+      "description": "jsdfsdo",
+      "price": "23",
+      "brand": "addi",
+      "category": "co",
+      "thumbnail": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=270&h=400&fit=crop&q=80",
+      "images": [],
+      "id": "4f23"
+    },
+    {
+      "id": "9378",
+      "title": "tshirt",
+      "description": "tshirt",
+      "price": "23",
+      "brand": "addidas",
+      "category": "cotton",
+      "thumbnail": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=270&h=400&fit=crop&q=80",
+      "images": [],
+      "rating": "4",
+      "sizes_available": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  ]
+}

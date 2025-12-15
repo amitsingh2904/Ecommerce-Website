@@ -1,0 +1,46 @@
+.admin-container {
+  display: flex;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #1f2937; /* dark sidebar */
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #374151;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  padding: 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid #374151;
+  transition: background 0.2s;
+}
+
+.sidebar li:hover,
+.sidebar li.active {
+  background-color: #374151;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background-color: #f3f4f6;
+  overflow-y: auto;
+}

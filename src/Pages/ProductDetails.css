@@ -1,0 +1,154 @@
+.product-detail-container {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem;
+}
+
+.product-images {
+  flex: 1;
+  position: relative;
+}
+
+.main-image {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.more-images {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+
+}
+
+.more-images img {
+  width: 80px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid #ddd;
+
+}
+
+.product-info {
+  flex: 1;
+}
+
+.brand-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #555;
+}
+
+.product-title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.rating {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.price-section {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.current-price {
+  font-weight: bold;
+  color: #222;
+  margin-right: 10px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #888;
+  margin-right: 10px;
+}
+
+.discount {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.tax-info {
+  font-size: 12px;
+  color: green;
+}
+
+.size-options {
+  margin: 15px 0;
+}
+.sizes {
+  display: flex;
+  gap: 12px;
+}
+
+.size-circle {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.size-circle input {
+  display: none; /* hide radio */
+}
+
+.size-circle.active {
+  border: 2px solid #000;
+  background: #f7f7f7;
+}
+
+/* .size-btn:hover {
+  border-color: #000;
+} */
+
+.action-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.add-to-bag {
+  background: #2563eb;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  flex: 1;
+}
+
+.wishlist {
+  position: absolute;
+  top: 10px; 
+  left: 10px;
+  background: rgb(239, 237, 237);
+  border: none;
+  padding: 7px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+  color: gray;
+  transition: 0.3s;
+}
+
+.wishlist-btn.active {
+  color: red;
+}
+
+.wishlist-btn:hover {
+  transform: scale(1.1);
+}
+
